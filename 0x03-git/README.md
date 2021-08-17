@@ -1,0 +1,1 @@
+I just created an a git directory 
